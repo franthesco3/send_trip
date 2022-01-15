@@ -1,0 +1,48 @@
+[
+    {
+        "image":"assets/images/ic_car.png",
+        "nome":"carro",
+        "ischecked": false
+    },
+    {
+        "image":"assets/images/ic_aviao.png",
+        "nome":"avião",
+        "ischecked": false
+    },
+    {
+        "image":"assets/images/ic_caminhao.png",
+        "nome":"caminhão",
+        "ischecked": false
+    },
+    {
+        "image":"assets/images/ic_van.png",
+        "nome":"van",
+        "ischecked": false
+    },
+    {
+        "image":"assets/images/ic_moto.png",
+        "nome":"moto",
+        "ischecked":false
+    },
+    {
+        "image":"assets/images/ic_bike.png",
+        "nome":"bike",
+        "ischecked": false
+    },
+    {  
+        "image":"assets/images/ic_trem.png",
+        "nome":"trem",
+        "ischecked": false
+    },
+    {
+        "image":"assets/images/ic_bus.png",
+        "nome":"ônibus",
+        "ischecked": false
+    },
+    {
+        "image":"assets/images/ic_barco.png",
+        "nome":"barco",
+        "ischecked": false
+    }
+
+]
